@@ -9,7 +9,7 @@ It is built for iOS and Android using React Native using TypeScript programming 
 <details>
  <summary>List of features</summary>
  
- 
+<br/>
 Direction of investment use: launch and expansion of operations of the InPhone network mobile operator in national and global markets of communications and communications, development / improvement of a set of related software products (applications).
 
 The CGC community is an authorized and exclusive agent of the InPhone network mobile operator to attract financing by offering tokens.
