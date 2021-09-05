@@ -75,6 +75,16 @@ To use the crypto messenger, the subscriber must install the InPhone application
   <img src="https://user-images.githubusercontent.com/62706319/84563152-b8a90280-ad59-11ea-8c57-f3aad22c2372.jpg" width="221"  />
 </p>
 </details>
+<br/>
+<details>
+  <summary>Google Play Submission</summary>
+  
+  <br/>
+  <div align="center">
+    <img src="./GooglePlay-InPhone.png" height="900" />
+  </div>
+
+</details>
 
 # Authors
 
