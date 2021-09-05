@@ -65,7 +65,7 @@ To use the crypto messenger, the subscriber must install the InPhone application
 <div align="center">
   <img src="./Crypto-W.png" />
 </div>
-
+<br/>
 <details>
  <summary>Supplementary screenshots (Andorid version)</summary>
   <p float="center">
