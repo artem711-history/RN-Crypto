@@ -1,12 +1,15 @@
-# Crypto - Crypto currency wallet Application 
+<h1 align="center">InPhone</h1>
+<p align="center">Crypto currency wallet for exchange, social media network and real-time messenger</p>
 
+## Overview
 
-
-**Crypto** is is a large open source **Crypto currency wallet Application**.
-
-Built with on TypeScript. <br>
-Using **React Native** library, **Redux** Storage library and **Django REST** for backend.
-
+It is built for iOS and Android using React Native using TypeScript programming language. **Redux** was used as the storage management library.
+<!-- Main features include: -->
+<!-- - [x] XXX -->
+<details>
+ <summary>List of features</summary>
+ 
+ 
 Direction of investment use: launch and expansion of operations of the InPhone network mobile operator in national and global markets of communications and communications, development / improvement of a set of related software products (applications).
 
 The CGC community is an authorized and exclusive agent of the InPhone network mobile operator to attract financing by offering tokens.
@@ -57,30 +60,23 @@ To use the crypto messenger, the subscriber must install the InPhone application
 - Creation of private chats, with a timer to delete chat
 - The ability to create self-deleting messages
 - Scan QR codes
+</details>
 
-</br>
+<div align="center">
+  <img src="./Crypto-W.png" />
+</div>
 
-> Followed the [**Flux architecture**](https://facebook.github.io/flux/) </br>
-> Link to [**Figma Design**](https://www.figma.com/file/FNOvpYZPIKJFpfD30j2j0s/Crypto-Copy)
-
-
-> **Alert**: With an objective to prevent code copyright, not all code is open source in this repository. </br>
-> For more information contact project author (Artem Moshnin, tap.kap.tap@gmail.com)
-
-> **Development status**: Developing...
-</br>
- <p float="center">
+<details>
+ <summary>Supplementary screenshots of final app (Andorid version)</summary>
+  <p float="center">
  <img src="https://user-images.githubusercontent.com/62706319/84563114-92836280-ad59-11ea-9dce-9ed1df48c902.jpg" width="221"  />
   <img src="https://user-images.githubusercontent.com/62706319/84563140-aa5ae680-ad59-11ea-8282-e5af6c5f65ec.jpg" width="221"  />
   <img src="https://user-images.githubusercontent.com/62706319/84563072-3ddfe780-ad59-11ea-8036-9427b07c0229.jpg" width="221"  />
   <img src="https://user-images.githubusercontent.com/62706319/84563152-b8a90280-ad59-11ea-8c57-f3aad22c2372.jpg" width="221"  />
 </p>
-<br>
- 
+</details>
+
 # Authors
 
-> **Artem Moshnin** - Primary Full Stack Developer </br>
-
-> **Email:** tap.kap.tap@gmail.com </br> **LinkedIn:** [click](https://www.linkedin.com/in/artem77/)
-
-</br>
+> **Artem Moshnin** - Head Full Stack Developer <br/>
+> **Email:** swift.uix@gmail.com
